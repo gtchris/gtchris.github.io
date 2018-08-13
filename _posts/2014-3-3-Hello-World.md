@@ -3,7 +3,7 @@ layout: post
 title: You're up and running!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hello world! This is my first hexo blog I made on github pages. Very simple and easy to use. Just need to learn the markup which seems easy.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
